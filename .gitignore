@@ -1,1 +1,4 @@
 djangoenv/*
+blog/__pycache__/*
+blog/migrations/__pycache__/*
+djangoblog/__pycache__/*

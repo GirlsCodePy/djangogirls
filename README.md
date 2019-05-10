@@ -1,4 +1,4 @@
-#Django Girls Blog
+# Django Girls Blog
 Blog de ejemplo para taller de Django y python
 
 ## Comandos 
